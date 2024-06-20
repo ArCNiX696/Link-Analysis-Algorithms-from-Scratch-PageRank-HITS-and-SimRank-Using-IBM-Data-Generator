@@ -1,4 +1,5 @@
 📊 Link Analysis Algorithms from Scratch: PageRank, HITS, and SimRank Using IBM Data Generator
+
 Welcome to the repository for our Data Mining class project! This project involves the implementation and optimization of three fundamental link analysis algorithms from scratch: PageRank, HITS, and SimRank. Below, you'll find an overview of the project, key insights, and instructions to get started.
 
 📘 Project Overview
