@@ -29,14 +29,6 @@ graph_5.txt
 graph_6.txt
 ibm-5000.txt
 🚀 Getting Started
-To get started with the project, follow these steps:
-
-Clone the repository:
-git clone https://github.com/yourusername/link-analysis-algorithms.git
-cd link-analysis-algorithms
-
-Run the algorithms:
-Execute the scripts for each algorithm to observe their performance on the provided datasets.
 
 🎨 Visual Insights
 Throughout the project, various visualizations are created to illustrate the impact of different modifications and parameter adjustments on the algorithms' performance. These insights help to better understand the behavior and efficiency of each algorithm.
